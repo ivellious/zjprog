@@ -2,3 +2,5 @@
 2. znajdź program do analizy kodu (ABC Complexity)
 3. wstaw kod, wstaw analize + opisz wartości
 
+
+android-testdpc/blob/master/app/src/main/java/com/afwsamples/testdpc/policy/PolicyManagementFragment.java

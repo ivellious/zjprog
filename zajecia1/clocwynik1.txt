@@ -1,0 +1,13 @@
+       1 text file.
+       1 unique file.                              
+       0 files ignored.
+
+github.com/AlDanial/cloc v 1.80  T=0.06 s (17.5 files/s, 58747.5 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                             1            237            342           2777
+-------------------------------------------------------------------------------
+
+
+dla klasy PolicyManagementFragment.java

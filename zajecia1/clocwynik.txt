@@ -1,0 +1,13 @@
+       1 text file.
+       1 unique file.                              
+       0 files ignored.
+
+github.com/AlDanial/cloc v 1.80  T=0.03 s (35.3 files/s, 23279.7 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                             1             82             51            527
+-------------------------------------------------------------------------------
+
+
+dla DeviceAdminReceiver.java projektu googlowskiego
