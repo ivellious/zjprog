@@ -1,0 +1,4 @@
+1. znajdź kod java
+2. znajdź program do analizy kodu (ABC Complexity)
+3. wstaw kod, wstaw analize + opisz wartości
+
